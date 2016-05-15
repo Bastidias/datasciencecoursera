@@ -1,2 +1,1 @@
-# datasciencecoursera
-The Data Science Toolbox Assignment
+DataScience Coursera Project Repo
